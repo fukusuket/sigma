@@ -3462,3 +3462,7 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://confluence.atlassian.com/security/cve-2023-22518-improper-authorization-vulnerability-in-confluence-data-center-and-server-1311473907.html
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4662
+https://ngrok.com/blog-post/new-ngrok-domains
