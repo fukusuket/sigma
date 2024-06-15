@@ -3646,3 +3646,17 @@ https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyb
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://web.archive.org/web/20200929062532/https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html
+https://www.bleepingcomputer.com/news/security/hackers-exploit-windows-smartscreen-flaw-to-drop-darkgate-malware/
+https://www.cisco.com/en/US/docs/ios/security/command/reference/sec_a2.pdf
+https://lolbas-project.github.io/lolbas/Binaries/Tar/
+https://cybersecuritynews.com/rhysida-ransomware-attacking-windows/
+https://x.com/_st0pp3r_/status/1742203752361128162?s=20
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
+https://github.com/LOLBAS-Project/LOLBAS/blob/2cc01b01132b5c304027a658c698ae09dd6a92bf/yml/OSBinaries/Esentutl.yml
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
+https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966
+https://reconshell.com/winpwn-tool-for-internal-windows-pentesting-and-ad-security/
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/List%20K8S%20secrets/
+https://confluence.atlassian.com/bitbucketserver/secret-scanning-1157471613.html
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/security/a1/sec-a1-cr-book/sec-a1-cr-book_chapter_0111.html
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
