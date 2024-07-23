@@ -5,7 +5,7 @@ description: Detects potential DLL sideloading of "DbgModel.dll"
 references:
     - https://hijacklibs.net/entries/microsoft/built-in/dbgmodel.html
 author: Gary Lobermier
-date: 2024/07/11
+date: 2024/07/23
 tags:
     - attack.defense_evasion
     - attack.t1574.002
@@ -26,7 +26,7 @@ detection:
         ImageLoaded|startswith:
             - 'C:\Program Files (x86)\Windows Kits\'
             - 'C:\Program Files\Windows Kits\'
-    condition: selection and not 1 of filter_main_* and not 1 of filter_optional_*
+    condition: selection and not 1 of filter_main_*
 falsepositives:
     - Legitimate applications loading their own versions of the DLL mentioned in this rule
 level: medium
