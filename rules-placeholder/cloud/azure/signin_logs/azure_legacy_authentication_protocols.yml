@@ -31,7 +31,7 @@ detection:
             - SMTP
             - Exchange ActiveSync
             - Exchange Web Services
-        properties.userPrincipalName: 'UPN'
+        properties.userPrincipalName|expand: '%UPN%'
     condition: selection
 falsepositives:
     - User has been put in acception group so they can use legacy authentication
